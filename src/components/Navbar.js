@@ -4,7 +4,7 @@ import "./Navbar.css";
 
 const Navbar = () => {
   const listStyle = {
-    "text-decoration": "none",
+    "textDecoration": "none",
     "color": "black"
   };
   return (
